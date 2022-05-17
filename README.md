@@ -6,7 +6,7 @@
 2. Una vez cargado (puede demorarse unos minutos), abrir el archivo Prueba.ipynb* y seguir las instrucciones que allí se indican.  
 3. Al finalizar la prueba, descargar el notebook y enviar a los e-mails indicados en el apartado consultas.
 
-* Para trabajar con R se puede utilizar el paquete rpy u otra alternativa. 
+*Para trabajar con R se puede utilizar el paquete rpy u otra alternativa. 
 
 - <b>Opcion 2:</b> 
 1. Descargar en local (tu computador) la base de datos (base_prueba.csv). 
