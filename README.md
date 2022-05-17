@@ -1,6 +1,6 @@
 # Prueba de aptitudes analíticas (001)
 
-### Instrucciones 
+## Instrucciones 
 
 
-### Consultas 
+## Consultas 
