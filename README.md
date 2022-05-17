@@ -3,4 +3,6 @@
 ## Instrucciones 
 
 
-## Consultas 
+## Consultas
+- Hugo Mansilla (hugo.mansilla@ais-int.com)
+- Claudio Pizarro (claudio.pizarro@ais-int.com)
