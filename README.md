@@ -8,7 +8,7 @@
 
 * Para trabajar con R se puede utilizar el paquete rpy u otra alternativa. 
 
-- Opcion 2: 
+- <b>Opcion 2:</b> 
 1. Descargar en local (tu computador) la base de datos (base_prueba.csv). 
 2. Desarrollar y completar los pasos indicados en el archivo "AIS - Prueba aptitudes analíticas" enviado al mail. 
 3. Enviar el archivo y el script (R o Python) con el código correspondiente.  
